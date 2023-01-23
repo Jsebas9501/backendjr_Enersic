@@ -61,6 +61,7 @@ MIDDLEWARE = [
 
 CORS_ORIGIN_WHITELIST = (
     'http://localhost:3000',
+    'https://astonishing-lily-b1d917.netlify.app/',
 )
 
 ROOT_URLCONF = 'backendjrenersinc.urls'
